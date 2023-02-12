@@ -3,7 +3,7 @@ Generated a quintic trajectory and designed a robust inverse dynamics control la
 
 Youtube video of simulation result: https://youtu.be/brhxS1NvmZI
 
-Documentation: 
+Documentation: https://github.com/RaviTeja163/Robust-Trajectory-Tracking-for-Quadrotor-UAV/blob/main/Report.pdf
 
 The objective of this project is to develop a robust control scheme to enable a quadrotor to track desired trajectories in the presence of external disturbances. The control design under study will be tested on the Crazyflie 2.0 platform. Crazyflie is a quadrotor that is classified as a micro air vehicle (MAV), as it only weighs 27 grams and can fit in your hand. The size makes it ideal for flying inside a lab without trashing half the interior. Even though the propellers spin at high RPMs, they are soft and the torque in the motors is very low when compared to a brushless motor, making it relatively crash tolerant. The Crazyflie 2.0 features four 7mm coreless DC-motors that give the Crazyflie a maximum takeoff weight of 42g. The Crazyflie 2.0 is an open source project, with source code and hardware design both documented and available. For more information, please see the link below:
 https://www.bitcraze.io/products/old-products/crazyflie-2-0/
